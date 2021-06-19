@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi I'm Brandon! 🍃
+## A software developer based out of NYC 🏙
+
+I love working with data structures and making programs as efficient and maintainable as they can be. While though I have experience across the stack, I have grown a strong passion for backend technologies.
 
 <!--
 **walshyb/walshyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
