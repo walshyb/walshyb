@@ -7,7 +7,7 @@ I love working with data structures and making programs as efficient and maintai
 
 **Interests:** Fostering community, open source, coffee, 90s & 00s web design
 
-**Languages / Tools:** TypeScript, JS, Python, React, Redux, Ruby (on Rails), C++<sup>\*</sup>, Wasm<sup>\*</sup>, Java<sup>\*\*</sup>, Assembly (rgbds)<sup>*</sup><br>, AWS, GCP, MySQL, PostgreSQL
+**Languages / Tools:** TypeScript, JS, Python, React, Redux, Ruby (on Rails), C++<sup>\*</sup>, Wasm<sup>\*</sup>, Java<sup>\*\*</sup>, Assembly (rgbds)<sup>*</sup>, AWS, GCP, MySQL, PostgreSQL,CSS/SCSS, PHP, jQuery<br>
 *<sup>\*</sup> In personal projects<br>*
 *<sup>\*\*</sup> In robotics context*
 
